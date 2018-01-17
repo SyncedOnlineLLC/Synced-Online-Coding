@@ -1,5 +1,7 @@
 var ServerNumber = 1;
 
+ServerNumber = document.getElementById("servernumber").value;
+
 function changeServers()
 {
  // Can be configurable.
